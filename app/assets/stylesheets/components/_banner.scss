@@ -1,0 +1,28 @@
+.banner {height: 50vh;
+background: linear-gradient(135deg,
+    rgba(0,0,0,0.8) 0%,
+    rgba(0,0,0,0.3) 50%),
+url("../../images/pexels-photo-279835.jpeg");
+background-size: cover;
+display: flex;
+justify-content: space-around;
+align-items: center;
+text-align: center;
+}
+.banner h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 20px;
+}
+
+.banner-content {
+
+
+}
